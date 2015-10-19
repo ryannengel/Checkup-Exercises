@@ -1,0 +1,40 @@
+/* 
+
+* Add-to/Edit existing styles
+* Absolutely position icons in lower corner
+      - `right: -10px`
+      - `bottom: -10px `
+* Make icons circular with
+     - `border-radius: 60px`
+*/
+
+li {
+  background: #eee;
+  padding: 10px 32px 10px 10px;
+  margin-bottom: 20px;
+  list-style: none;
+  width: 300px;
+}
+
+img {
+  background: #fff;
+  padding: 5px;
+}
+
+
+
+/*******************************/
+/* Do Not Edit Below This Line */
+/*******************************/
+body {
+  padding: 2em;
+}
+
+h3 {
+  color: #a10022;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
