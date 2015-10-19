@@ -2,6 +2,16 @@
 * Override background gradient
 * Make `background: white`
 */
+body {
+ background: white;
+ font-family: sans-serif;
+}
+p {
+ background: none;   
+}
+#banner {
+    width: 300px;
+}
 
 
 
@@ -9,6 +19,8 @@
 * Override Terrible Papayrus Font 
 * Change to `font-family: sans-serif`
 */
+
+
 
 
 /* 
