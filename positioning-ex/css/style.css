@@ -16,6 +16,14 @@ li {
   width: 300px;
 }
 
+a {
+ position: relative;
+ right: -10px;
+ bottom: -10px;
+}
+
+
+
 img {
   background: #fff;
   padding: 5px;
